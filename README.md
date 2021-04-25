@@ -1,4 +1,4 @@
-#Resource is made with love
+# MADE WITH LOVE ❤️
 
 
 # STEPS TO DO!
